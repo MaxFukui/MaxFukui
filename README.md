@@ -1,11 +1,5 @@
-  Hello, here the speaker is someone who creates art and codes, sometimes together.
-
-  I am increasingly interested in machine learning and data sciencie. I am striving every day to understand this universe and to be able to contribute within this scope.
-
-  my studies today converge in areas of artificial intelligence and, when it happens, in game development.
-
-  this is a temporary description.
-
+Hello, welcome to my github repo!
+It's still in development and soon I will put up everything organized! 
 
 
 <!---
